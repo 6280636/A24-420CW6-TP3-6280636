@@ -1,0 +1,6 @@
+@A24_420CW6_TP3_6280636_HostAddress = http://localhost:5275
+
+GET {{A24_420CW6_TP3_6280636_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
