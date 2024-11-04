@@ -1,4 +1,9 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using A24_420CW6_TP3_6280636.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<A24_420CW6_TP3_6280636Context>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("A24_420CW6_TP3_6280636Context") ?? throw new InvalidOperationException("Connection string 'A24_420CW6_TP3_6280636Context' not found.")));
 
 // Add services to the container.
 
