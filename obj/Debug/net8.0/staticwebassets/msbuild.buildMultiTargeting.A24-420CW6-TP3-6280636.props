@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\A24-420CW6-TP3-6280636.props" />
+</Project>
