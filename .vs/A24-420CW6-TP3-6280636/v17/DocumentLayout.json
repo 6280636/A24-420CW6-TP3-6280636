@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\elitedesk\\desktop\\a24-420cw6-tp3-6280636\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\elitedesk\\desktop\\a24-420cw6-tp3-6280636\\data\\a24_420cw6_tp3_6280636context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:data\\a24_420cw6_tp3_6280636context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Models\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Models\\RegisterDTO.cs",
+              "RelativeToolTip": "Models\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:43:01.546Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,14 +65,14 @@
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAADwv04AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T01:28:49.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "A24_420CW6_TP3_6280636Context.cs",
               "DocumentMoniker": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Data\\A24_420CW6_TP3_6280636Context.cs",
               "RelativeDocumentMoniker": "Data\\A24_420CW6_TP3_6280636Context.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "Data\\A24_420CW6_TP3_6280636Context.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:14:37.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:14:37.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T00:24:07.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T00:24:07.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -89,12 +104,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-04T23:34:16.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T23:34:16.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ScoresController.cs",
               "DocumentMoniker": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Controllers\\ScoresController.cs",
               "RelativeDocumentMoniker": "Controllers\\ScoresController.cs",
@@ -106,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Score.cs",
               "DocumentMoniker": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Models\\Score.cs",
               "RelativeDocumentMoniker": "Models\\Score.cs",
@@ -114,8 +128,7 @@
               "RelativeToolTip": "Models\\Score.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T23:20:28.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T23:20:28.78Z"
             },
             {
               "$type": "Document",
@@ -125,7 +138,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T23:19:16.794Z",
               "EditorCaption": ""

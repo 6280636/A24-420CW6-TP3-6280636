@@ -257,3 +257,10 @@ C:\Users\EliteDesk\Desktop\A24-420CW6-TP3-6280636\obj\Debug\net8.0\refint\A24-42
 C:\Users\EliteDesk\Desktop\A24-420CW6-TP3-6280636\obj\Debug\net8.0\A24-420CW6-TP3-6280636.pdb
 C:\Users\EliteDesk\Desktop\A24-420CW6-TP3-6280636\obj\Debug\net8.0\A24-420CW6-TP3-6280636.genruntimeconfig.cache
 C:\Users\EliteDesk\Desktop\A24-420CW6-TP3-6280636\obj\Debug\net8.0\ref\A24-420CW6-TP3-6280636.dll
+C:\Users\EliteDesk\Desktop\A24-420CW6-TP3-6280636\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\EliteDesk\Desktop\A24-420CW6-TP3-6280636\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\EliteDesk\Desktop\A24-420CW6-TP3-6280636\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\EliteDesk\Desktop\A24-420CW6-TP3-6280636\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\EliteDesk\Desktop\A24-420CW6-TP3-6280636\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\EliteDesk\Desktop\A24-420CW6-TP3-6280636\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\EliteDesk\Desktop\A24-420CW6-TP3-6280636\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
