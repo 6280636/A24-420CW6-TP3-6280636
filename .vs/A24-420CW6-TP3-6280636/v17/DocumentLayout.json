@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\elitedesk\\desktop\\a24-420cw6-tp3-6280636\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\elitedesk\\desktop\\a24-420cw6-tp3-6280636\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\elitedesk\\desktop\\a24-420cw6-tp3-6280636\\data\\a24_420cw6_tp3_6280636context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:data\\a24_420cw6_tp3_6280636context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\elitedesk\\desktop\\a24-420cw6-tp3-6280636\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\elitedesk\\desktop\\a24-420cw6-tp3-6280636\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\elitedesk\\desktop\\a24-420cw6-tp3-6280636\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\elitedesk\\desktop\\a24-420cw6-tp3-6280636\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\elitedesk\\desktop\\a24-420cw6-tp3-6280636\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwv04AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:28:49.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "A24_420CW6_TP3_6280636Context.cs",
+              "DocumentMoniker": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Data\\A24_420CW6_TP3_6280636Context.cs",
+              "RelativeDocumentMoniker": "Data\\A24_420CW6_TP3_6280636Context.cs",
+              "ToolTip": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Data\\A24_420CW6_TP3_6280636Context.cs",
+              "RelativeToolTip": "Data\\A24_420CW6_TP3_6280636Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:14:37.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:24:07.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -43,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ScoresController.cs",
               "DocumentMoniker": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Controllers\\ScoresController.cs",
               "RelativeDocumentMoniker": "Controllers\\ScoresController.cs",
@@ -51,31 +102,30 @@
               "RelativeToolTip": "Controllers\\ScoresController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T23:33:23.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T23:33:23.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Score.cs",
               "DocumentMoniker": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Models\\Score.cs",
               "RelativeDocumentMoniker": "Models\\Score.cs",
               "ToolTip": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Models\\Score.cs",
               "RelativeToolTip": "Models\\Score.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T23:20:28.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T23:19:16.794Z",
               "EditorCaption": ""

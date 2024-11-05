@@ -8,6 +8,7 @@
         public TimeSpan Temp { get; set; }
         public DateTime Date { get; set; }
         public bool Visibilite { get; set; }
+        public virtual User? User { get; set; }
 
         //public Score(int id, string pseudo, int score, TimeSpan temp, DateTime date) 
         //{
