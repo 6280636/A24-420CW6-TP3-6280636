@@ -109,24 +109,19 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "A24_420CW6_TP3_6280636.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
+    "ContainingType": "A24_420CW6_TP3_6280636.Controllers.UsersController",
+    "Method": "Register",
+    "RelativePath": "api/Users/Register",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[A24_420CW6_TP3_6280636.WeatherForecast, A24-420CW6-TP3-6280636, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "register",
+        "Type": "A24_420CW6_TP3_6280636.Models.RegisterDTO",
+        "IsRequired": true
       }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": []
   }
 ]

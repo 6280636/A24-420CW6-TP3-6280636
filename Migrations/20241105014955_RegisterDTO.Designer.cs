@@ -4,6 +4,7 @@ using A24_420CW6_TP3_6280636.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace A24_420CW6_TP3_6280636.Migrations
 {
     [DbContext(typeof(A24_420CW6_TP3_6280636Context))]
-    partial class A24_420CW6_TP3_6280636ContextModelSnapshot : ModelSnapshot
+    [Migration("20241105014955_RegisterDTO")]
+    partial class RegisterDTO
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
