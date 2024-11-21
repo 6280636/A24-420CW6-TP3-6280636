@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\padprod.pad\\desktop\\lab\\a24-420cw6-tp3-6280636\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\padprod.pad\\desktop\\lab\\a24-420cw6-tp3-6280636\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\padprod.pad\\desktop\\lab\\a24-420cw6-tp3-6280636\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\padprod.pad\\desktop\\lab\\a24-420cw6-tp3-6280636\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\padprod.pad\\desktop\\lab\\a24-420cw6-tp3-6280636\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\padprod.pad\\desktop\\lab\\a24-420cw6-tp3-6280636\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\padprod.pad\\desktop\\lab\\a24-420cw6-tp3-6280636\\a24-420cw6-tp3-6280636.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:a24-420cw6-tp3-6280636.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Migrations\\20241121175349_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241121175349_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\padprod.pad\\desktop\\lab\\a24-420cw6-tp3-6280636\\a24-420cw6-tp3-6280636.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -33,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\padprod.pad\\desktop\\lab\\a24-420cw6-tp3-6280636\\data\\a24_420cw6_tp3_6280636context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:data\\a24_420cw6_tp3_6280636context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\padprod.pad\\desktop\\lab\\a24-420cw6-tp3-6280636\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|c:\\users\\padprod.pad\\desktop\\lab\\a24-420cw6-tp3-6280636\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0470C0E-AD5F-4762-AEF5-5DE2F0927C69}|A24-420CW6-TP3-6280636.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,33 +70,59 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "A24-420CW6-TP3-6280636.http",
-              "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\A24-420CW6-TP3-6280636.http",
-              "RelativeDocumentMoniker": "A24-420CW6-TP3-6280636.http",
-              "ToolTip": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\A24-420CW6-TP3-6280636.http",
-              "RelativeToolTip": "A24-420CW6-TP3-6280636.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-21T16:43:15.366Z",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T18:03:50.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Models\\DTOs\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Models\\DTOs\\RegisterDTO.cs",
-              "RelativeToolTip": "Models\\DTOs\\RegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:43:01.546Z",
+              "WhenOpened": "2024-11-04T23:19:16.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:28:49.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoresController.cs",
+              "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Controllers\\ScoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ScoresController.cs",
+              "ToolTip": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Controllers\\ScoresController.cs",
+              "RelativeToolTip": "Controllers\\ScoresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:33:23.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -93,20 +135,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T23:19:16.794Z",
+              "DocumentIndex": 4,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T18:04:33.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "A24-420CW6-TP3-6280636",
+              "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\A24-420CW6-TP3-6280636.csproj",
+              "RelativeDocumentMoniker": "A24-420CW6-TP3-6280636.csproj",
+              "ToolTip": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\A24-420CW6-TP3-6280636.csproj",
+              "RelativeToolTip": "A24-420CW6-TP3-6280636.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T18:02:58.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241121175349_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Migrations\\20241121175349_initialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241121175349_initialCreate.cs",
+              "ToolTip": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Migrations\\20241121175349_initialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241121175349_initialCreate.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:53:49.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Models\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Models\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:43:01.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "A24-420CW6-TP3-6280636.http",
+              "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\A24-420CW6-TP3-6280636.http",
+              "RelativeDocumentMoniker": "A24-420CW6-TP3-6280636.http",
+              "ToolTip": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\A24-420CW6-TP3-6280636.http",
+              "RelativeToolTip": "A24-420CW6-TP3-6280636.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-21T16:43:15.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Models\\DTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\LoginDTO.cs",
@@ -114,12 +205,11 @@
               "RelativeToolTip": "Models\\DTOs\\LoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T16:04:24.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T16:04:24.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "A24_420CW6_TP3_6280636Context.cs",
               "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Data\\A24_420CW6_TP3_6280636Context.cs",
               "RelativeDocumentMoniker": "Data\\A24_420CW6_TP3_6280636Context.cs",
@@ -127,12 +217,11 @@
               "RelativeToolTip": "Data\\A24_420CW6_TP3_6280636Context.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:14:37.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:14:37.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Score.cs",
               "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Models\\Score.cs",
               "RelativeDocumentMoniker": "Models\\Score.cs",
@@ -140,12 +229,11 @@
               "RelativeToolTip": "Models\\Score.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T23:20:28.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T23:20:28.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -153,33 +241,7 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T00:24:07.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ScoresController.cs",
-              "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Controllers\\ScoresController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ScoresController.cs",
-              "ToolTip": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Controllers\\ScoresController.cs",
-              "RelativeToolTip": "Controllers\\ScoresController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAxwKUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T23:33:23.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAwFIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:28:49.872Z"
+              "WhenOpened": "2024-11-05T00:24:07.153Z"
             }
           ]
         }

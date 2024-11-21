@@ -13,7 +13,7 @@ using System.Security.Claims;
 
 namespace A24_420CW6_TP3_6280636.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class ScoresController : ControllerBase
     {
