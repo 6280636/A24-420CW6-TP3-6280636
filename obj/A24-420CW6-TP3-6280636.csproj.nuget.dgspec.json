@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\A24-420CW6-TP3-6280636.csproj": {}
+    "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\A24-420CW6-TP3-6280636.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\A24-420CW6-TP3-6280636.csproj": {
+    "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\A24-420CW6-TP3-6280636.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\A24-420CW6-TP3-6280636.csproj",
+        "projectUniqueName": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\A24-420CW6-TP3-6280636.csproj",
         "projectName": "A24-420CW6-TP3-6280636",
-        "projectPath": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\A24-420CW6-TP3-6280636.csproj",
-        "packagesPath": "C:\\Users\\EliteDesk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EliteDesk\\Desktop\\A24-420CW6-TP3-6280636\\obj\\",
+        "projectPath": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\A24-420CW6-TP3-6280636.csproj",
+        "packagesPath": "C:\\Users\\padprod.PAD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\padprod.PAD\\Desktop\\LAB\\A24-420CW6-TP3-6280636\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EliteDesk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\padprod.PAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -100,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
