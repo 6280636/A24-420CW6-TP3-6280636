@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A24-420CW6-TP3-6280636")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ee9f9f5ed63aace79369bda461d977fcf88d9c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e98a138d0bf070d20da3ed5849eafa3e1e675d40")]
 [assembly: System.Reflection.AssemblyProductAttribute("A24-420CW6-TP3-6280636")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A24-420CW6-TP3-6280636")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
